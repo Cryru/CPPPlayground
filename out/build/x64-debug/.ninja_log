@@ -1,0 +1,9 @@
+# ninja log v5
+11	851	7478295019343286	CMakeFiles/Playground.dir/Span.cpp.obj	95a858c5ae9cf72c
+21	947	7478295278666751	CMakeFiles/Playground.dir/CoroutineTest.cpp.obj	4f8cc863b22b7169
+15	1363	7478295282807698	CMakeFiles/Playground.dir/main.cpp.obj	46383d96db1bacaa
+1363	1862	7478295287598788	Playground.exe	cf0940b3a5d5bca7
+14	1355	7478296268761497	CMakeFiles/Playground.dir/main.cpp.obj	46383d96db1bacaa
+1356	1526	7478296270071793	Playground.exe	cf0940b3a5d5bca7
+14	1341	7478296516698240	CMakeFiles/Playground.dir/main.cpp.obj	46383d96db1bacaa
+1342	1521	7478296518118562	Playground.exe	cf0940b3a5d5bca7
